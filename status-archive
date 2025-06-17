@@ -1,0 +1,10 @@
+status-ea-dashboard/
+├── package.json              ← pega su contenido
+├── index.html                ← pega su contenido
+├── tailwind.config.js        ← pega su contenido
+├── postcss.config.js         ← pega su contenido
+├── vite.config.js            ← pega su contenido
+└── src/
+    ├── App.jsx               ← pega su contenido
+    ├── main.jsx              ← pega su contenido
+    └── index.css             ← pega su contenido
